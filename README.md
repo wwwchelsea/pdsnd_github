@@ -7,8 +7,7 @@
 Explore US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
-
+Use python to explore data related to bike share systems for three major cities in the US and answer interesting questions about it 
 ### Files used
 Include the files used
 
