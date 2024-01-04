@@ -205,6 +205,8 @@ def user_stats(df):
     start_time = time.time()
 
     # Display counts of user types
+    pd.set_option("display.max_columns", 200)
+    
     if 'User Type' in df:
         print(df['User Type'].value_counts())
     else:
